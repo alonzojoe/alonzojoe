@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alonzojoe
-- 👀 I’m interested in WEB PROGRAMMING ESPECIALLY PHP
-- 🌱 I’m currently learning BACKEND AND FORNT END (LARAVEL,VUEJS)
+- 👀 A Software Engineer
+- 🌱 I want to learn new things.
 - 📫 How to reach me ...
 
 <!---
