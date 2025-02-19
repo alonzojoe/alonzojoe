@@ -2,7 +2,7 @@
 
 I'm a Software Engineer from Pampanga, Philippines 2000.
 
-- :telescope: I specialize in frontend web development with component-based architecture frameworks.
+- :star2: I specialize in frontend web development with component-based architecture frameworks.
 - 🎯 I focus on creating user interfaces, developing reusable components and consuming and handling data from RESTful APIs.
 - :zap: Continuously expanding my knowledge in web technologies and modern frameworks.
 
