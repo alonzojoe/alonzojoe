@@ -1,7 +1,3 @@
----
-# Your YAML front matter goes here
----
-
 ### :man_technologist: About Me :
 
 I'm a Software Engineer from Pampanga, Philippines 2000.
