@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=alonzojoe)
+
 ### :man_technologist: About Me :
 
 I'm a Software Engineer from Pampanga, Philippines 2000.
